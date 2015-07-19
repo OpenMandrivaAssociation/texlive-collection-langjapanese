@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langjapanese
 Version:	20140621
-Release:	3
+Release:	4
 Summary:	Japanese
 Group:		Publishing
 URL:		http://tug.org/texlive
