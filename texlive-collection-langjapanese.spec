@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langjapanese
-Version:	20140621
-Release:	4
+Version:	20170903
+Release:	1
 Summary:	Japanese
 Group:		Publishing
 URL:		http://tug.org/texlive
