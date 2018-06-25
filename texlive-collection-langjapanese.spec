@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langjapanese
-Version:	20170903
+Version:	20180514
 Release:	1
 Summary:	Japanese
 Group:		Publishing
