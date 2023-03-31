@@ -1,6 +1,6 @@
 Name:		texlive-collection-langjapanese
 Version:	64603
-Release:	1
+Release:	2
 Summary:	Japanese
 Group:		Publishing
 URL:		http://tug.org/texlive
