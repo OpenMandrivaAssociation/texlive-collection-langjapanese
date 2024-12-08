@@ -1,5 +1,5 @@
 Name:		texlive-collection-langjapanese
-Version:	70738
+Version:	72817
 Release:	1
 Summary:	Japanese
 Group:		Publishing
